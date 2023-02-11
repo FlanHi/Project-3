@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+#nav-bar {
+    height: 100px;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 40px;
+    font-size: 30px;
+}
+
+a {
+    transition: all 2s;
+    color: white;
+    border: 2px solid gray;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+a:hover{
+    transition: all 2s;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    color: white;
+    margin: 50px
+}
+
+p {
+    font-size: 20px;
+    color: white;
+    margin: 50px
+}
